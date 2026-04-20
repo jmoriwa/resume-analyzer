@@ -29,12 +29,13 @@ This project emphasizes clean architecture, efficient data handling, and practic
 ```bash
 git clone https://github.com/jmoriwa/resume-analyzer.git
 cd resume-analyzer
-
+```
 ### 2. Set up environment (using uv)
 ```bash
 uv venv --python 3.12
 uv pip install -r requirements.txt
-
+```
 ### 3. Run the application
 ```bash
 uv run streamlit run main.py
+```
