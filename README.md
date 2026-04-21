@@ -39,3 +39,5 @@ uv pip install -r requirements.txt
 ```bash
 uv run streamlit run main.py
 ```
+
+## LIve Demo : https://joresumeanalyzer.streamlit.app/
